@@ -1,1 +1,2 @@
 # Interactive-Linguistic-Essay
+This document is a linguistic essay that carries out a simple linguistic analysis of the article "Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI" with the usage of python coding and google colab. This is a copy of my jupyter notebook that carries out all the processes.
